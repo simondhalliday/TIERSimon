@@ -1,5 +1,7 @@
 # The TIER Documentation Protocol v2.0 for STATA
 New Author: Simon
+2nd Author: Richard 
+
 ## Overview 
 
 The TIER Documentation Protocol provides instructions for assembling a 
